@@ -11,5 +11,11 @@
       "en" : [ "Blank Manifest" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://Ratamah.github.io/iiif-test_elias-julien/manifests/1742562233423.json",
+    "label" : {
+      "en" : [ "Blank Manifest" ]
+    },
+    "type" : "Manifest"
   } ]
 }
