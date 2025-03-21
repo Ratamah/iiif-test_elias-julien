@@ -1,0 +1,64 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://Ratamah.github.io/iiif-test_elias-julien/manifests/1742562233423.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Blank Manifest" ]
+  },
+  "items" : [ {
+    "id" : "https://example.org/qffg5htixbf-m8ira8tk/canvas/q5ylcpeekz9-m8iravgr",
+    "type" : "Canvas",
+    "height" : 4992,
+    "width" : 3328,
+    "label" : {
+      "en" : [ "" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/qffg5htixbf-m8ira8tk/canvas/q5ylcpeekz9-m8iravgr/annotation-page/7ylq72ll5ss-m8iravgr",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/qffg5htixbf-m8ira8tk/canvas/q5ylcpeekz9-m8iravgr/annotation-page/7ylq72ll5ss-m8iravgr/annotation/mydpy2lpuw-m8irbeme",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/qffg5htixbf-m8ira8tk/canvas/q5ylcpeekz9-m8iravgr",
+        "body" : {
+          "id" : "https://e-codices.ch/loris/fmb/fmb-cb-0600a/fmb-cb-0600a_004.jp2/full/full/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4993,
+          "width" : 3328
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/qffg5htixbf-m8ira8tk/canvas/hr448zocv5-m8isia5u",
+    "type" : "Canvas",
+    "height" : 672,
+    "width" : 683,
+    "label" : {
+      "en" : [ "uebung" ]
+    },
+    "summary" : {
+      "en" : [ "summarytext" ]
+    },
+    "rights" : "rightstext",
+    "navDate" : "2025-03-20T23:00:00.000Z",
+    "items" : [ {
+      "id" : "https://example.org/qffg5htixbf-m8ira8tk/canvas/hr448zocv5-m8isia5u/annotation-page/s1rr2vfmdf-m8isia5u",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/qffg5htixbf-m8ira8tk/annotation/l5mewrq8q4d-m8isia2b",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/qffg5htixbf-m8ira8tk/canvas/hr448zocv5-m8isia5u",
+        "body" : {
+          "id" : "https://e-codices.ch/loris/fmb%2Ffmb-cb-0600a%2Ffmb-cb-0600a_004.jp2/228,2395,683,672/full/0/gray.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 672,
+          "width" : 683
+        }
+      } ]
+    } ]
+  } ]
+}
