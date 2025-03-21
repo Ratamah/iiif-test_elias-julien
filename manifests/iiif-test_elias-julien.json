@@ -3,7 +3,7 @@
   "id" : "https://Ratamah.github.io/iiif-test_elias-julien/manifests/iiif-test_elias-julien.json",
   "type" : "Manifest",
   "label" : {
-    "en" : [ "Blank Manifest" ]
+    "en" : [ "Manifest" ]
   },
   "items" : [ {
     "id" : "https://example.org/qffg5htixbf-m8ira8tk/canvas/q5ylcpeekz9-m8iravgr",
